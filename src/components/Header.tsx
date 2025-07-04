@@ -21,7 +21,7 @@ const Header = () => {
     <header className="bg-background/80 backdrop-blur-sm border-b sticky top-0 z-40">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
-          <Link href="/" className="text-xl font-bold font-headline">
+          <Link href="/" className="text-xl font-bold font-headline"> 
             <span>Astro Minimal Blog</span>
           </Link>
           <nav className="hidden md:flex items-center space-x-8">

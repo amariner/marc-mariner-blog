@@ -11,10 +11,10 @@ export default function Home() {
     <div className="space-y-16 md:space-y-24">
       <section className="text-center flex flex-col items-center pt-8 md:pt-16">
         <h1 className="text-4xl md:text-6xl font-bold tracking-tighter leading-tight max-w-4xl">
-          A Minimal Blog for Modern Times
+ Marc Mariner
         </h1>
         <p className="mt-4 max-w-2xl mx-auto text-lg text-muted-foreground">
-          Thoughts, stories, and ideas on technology, lifestyle, and travel, presented in a clean, modern, and distraction-free design.
+ El blog personal de un musicólogo.
         </p>
       </section>
 
