@@ -1,13 +1,13 @@
 ---
 title: "Cookie Policy"
-meta_title: "Cookie Policy | Astro Minimal Blog"
+meta_title: "Cookie Policy | Marc Mariner's Blog"
 meta_description: "Information about the cookies we use on our website and how you can manage them."
 slug: "cookie-policy"
 ---
 
 **Last Updated: July 4, 2025**
 
-This Cookie Policy explains what cookies are and how we use them on Astro Minimal Blog ("we," "our," or "us"). You should read this policy so you can understand what type of cookies we use, the information we collect using cookies and how that information is used.
+This Cookie Policy explains what cookies are and how we use them on Marc Mariner's Blog ("we," "our," or "us"). You should read this policy so you can understand what type of cookies we use, the information we collect using cookies and how that information is used.
 
 ### What Are Cookies?
 

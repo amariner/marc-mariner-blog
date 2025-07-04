@@ -1,13 +1,13 @@
 ---
 title: "Privacy Policy"
-meta_title: "Privacy Policy | Astro Minimal Blog"
+meta_title: "Privacy Policy | Marc Mariner's Blog"
 meta_description: "Learn how we collect, use, and protect your personal data. Your privacy is important to us."
 slug: "privacy-policy"
 ---
 
 **Last Updated: July 4, 2025**
 
-Welcome to Astro Minimal Blog ("we," "our," or "us"). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site.
+Welcome to Marc Mariner's Blog ("we," "our," or "us"). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site.
 
 ### Information We Collect
 

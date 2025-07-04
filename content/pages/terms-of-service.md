@@ -1,13 +1,13 @@
 ---
 title: "Terms of Service"
-meta_title: "Terms of Service | Astro Minimal Blog"
+meta_title: "Terms of Service | Marc Mariner's Blog"
 meta_description: "Read the terms and conditions for using our website."
 slug: "terms-of-service"
 ---
 
 **Last Updated: July 4, 2025**
 
-Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the Astro Minimal Blog website (the "Service") operated by us.
+Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the Marc Mariner's Blog website (the "Service") operated by us.
 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users, and others who access or use the Service.
 
@@ -21,17 +21,17 @@ All content provided on this blog is for informational purposes only. The owner 
 
 ### Intellectual Property
 
-The Service and its original content (excluding Content provided by users), features and functionality are and will remain the exclusive property of Astro Minimal Blog and its licensors.
+The Service and its original content (excluding Content provided by users), features and functionality are and will remain the exclusive property of Marc Mariner's Blog and its licensors.
 
 ### Links To Other Web Sites
 
-Our Service may contain links to third-party web sites or services that are not owned or controlled by Astro Minimal Blog.
+Our Service may contain links to third-party web sites or services that are not owned or controlled by Marc Mariner's Blog.
 
-Astro Minimal Blog has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Astro Minimal Blog shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
+Marc Mariner's Blog has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Marc Mariner's Blog shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
 
 ### Limitation Of Liability
 
-In no event shall Astro Minimal Blog, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from your access to or use of or inability to access or use the Service.
+In no event shall Marc Mariner's Blog, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from your access to or use of or inability to access or use the Service.
 
 ### Governing Law
 
